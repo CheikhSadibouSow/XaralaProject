@@ -58,9 +58,13 @@ Pour acceder au code source veuillez cliquer sur la partie branche et choisir la
 
 ## Contributions
 
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre les étapes décrites dans la section Contributions du README.
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer à  Arsenal Maillots Store, veuillez suivre ces étapes :
 
-
+1. Forkez le projet
+2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/NouvelleFonctionnalité`)
+3. Committez vos modifications (`git commit -am 'Ajout de la nouvelle fonctionnalité'`)
+4. Poussez sur la branche (`git push origin feature/NouvelleFonctionnalité`)
+5. Ouvrez une Pull Request
 ## Contact
 
 email : sadibousow790@gmail.com <br>
