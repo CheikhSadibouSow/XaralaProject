@@ -63,7 +63,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 ## Contact
 
-email : sadibousow790@gmail.com
+email : sadibousow790@gmail.com <br>
 telephone : +221 77 283 46 92
 
 
