@@ -51,10 +51,6 @@ Ce projet est un site web de vente de maillots d'Arsenal. Il offre une plateform
 1. Démarrez le serveur en exécutant `npm start`.
 2. Accédez au site dans votre navigateur en ouvrant `http://localhost:3000`.
    
-## Code source
-
-Pour acceder au code source veuillez cliquer sur la partie branche et choisir la branche master une fois sur la branche master vous trouverez les codes sources et les images utilisés pour ce projet.
-
 
 ## Contributions
 
